@@ -1,0 +1,9 @@
+#summary ManagedSQLite::Database Class
+#labels Featured
+
+= Members =
+  * `Database()` Default constructor.
+  * `Database(const Database% db)` Copy constructor.
+  * `~Database()` Default destructor.
+  * `Database % operator=(const Database% rhs)` Assignment operator.
+  * `Open(String ^szFile)` Opens and/or creates the database file located at `szFile`.
