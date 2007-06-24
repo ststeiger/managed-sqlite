@@ -1,7 +1,7 @@
 #summary ManagedSQLite::Database Class
 #labels Featured
 
-= Members =
+== Members ==
   * `Database()` Default constructor.
   * `Database(const Database% db)` Copy constructor.
   * `~Database()` Default destructor.
